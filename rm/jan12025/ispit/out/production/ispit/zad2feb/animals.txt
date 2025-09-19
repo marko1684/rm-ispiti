@@ -1,0 +1,8 @@
+ant
+cat
+dog
+elephant
+lion
+tiger
+zebra
+

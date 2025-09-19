@@ -1,0 +1,12 @@
+Ukupan broj dostupnih domena: 4
+Ukupan broj nedostupnih domena: 1
+
+Dostupni domeni sa vremonom odziva: 
+openai.com - 2
+google.com - 8
+facebook.com - 8
+yahoo.com - 176
+Top 3 najbrza domena: 
+0.openai.com - 2
+1.google.com - 8
+2.facebook.com - 8
